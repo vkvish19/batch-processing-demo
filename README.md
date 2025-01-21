@@ -1,2 +1,2 @@
 # batch-processing-demo
-batch-processing-demo using spring batch
+Very small demo project to understand batch processing using Spring Batch.
